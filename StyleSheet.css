@@ -1,0 +1,62 @@
+﻿body {
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    width:70%;
+    margin : 100px auto;
+}
+
+#form1 {
+   
+    padding: 10px;
+    background-color: lightgrey;
+    border-radius:6px;
+    box-shadow: 2px 2px 3px 0 grey;
+}
+
+.input
+{
+    padding:10px;
+}
+
+
+ .Button
+{
+    width: 50px;
+    height:40px;
+   // padding:5px;
+    border:none;
+  //  border-radius:20px;
+    font-size:28px;
+}
+
+ .btnradio
+ {
+     border-radius:30%;
+     width:50px;
+     height:40px;
+    margin-left: 19px;
+     text-align:center;
+     font-size:15px;
+}
+
+ #btnred
+ {
+     background-color:red;
+     border:none;
+ }
+
+#btngreen {
+    background-color: green;
+    border: none;
+}
+
+#btnblue {
+    background-color: blue;
+    border: none;
+}
+
+#btnrevert {
+    border: none;
+
+}
